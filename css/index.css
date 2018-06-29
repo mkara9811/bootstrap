@@ -1,0 +1,42 @@
+body {
+	font-family: "Monserrat", sans serif;
+	color:black;
+	background-image: url("file:/C:/Users/m_kar/Pictures//Background.jpg") ;
+}
+
+a {
+	color: #AABBCC;
+}
+
+.navbar-default {
+	background-color: navy;
+	border-color: black;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+	background-color:lightgrey;
+}
+
+.img1 {
+	border-radius: 50%;
+	border: 5px solid;
+	border-color: black;
+}
+
+.section1{
+	background-color: lightblue;
+}
+
+.section2{
+	background-color: yellow;
+}
+
+.txt1 {
+ border-color: black;
+ background-color: white;
+  border: 5px solid;
+    padding: 10px;
+    box-shadow: 10px 15px;
+    font-family: "Aharoni";
+
+}
