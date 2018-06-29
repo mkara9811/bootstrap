@@ -1,7 +1,7 @@
 body {
 	font-family: "Monserrat", sans serif;
 	color:black;
-	background-image: url("file:/C:/Users/m_kar/Pictures//Background.jpg") ;
+	background: url("../images/Background.jpg");
 }
 
 a {
